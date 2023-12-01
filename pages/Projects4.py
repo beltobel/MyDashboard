@@ -32,6 +32,6 @@ with st.container():
            
             """
         )
-        st.markdown("[Details...](https://youtu.be/FOULV9Xij_8)")
+#         st.markdown("[Details...]()")
 
         
