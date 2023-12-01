@@ -4,4 +4,3 @@ pandas==2.0.3
 streamlit==1.28.2
 streamlit-lottie==0.0.5
 requests==2.31.0
-PIL==10.0.1
